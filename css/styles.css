@@ -716,7 +716,6 @@ margin-left: 10px;
 .label {
   display: block;
   text-align: left;
-  margin-bottom: 5px;
   font-style: 400;
   font-size: 12px;
   line-height: 1.17;
@@ -778,7 +777,7 @@ margin-left: 10px;
 .agree { 
   display: flex;
   justify-content: center;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 .agree-doc {
   color: var(--accent-color);
