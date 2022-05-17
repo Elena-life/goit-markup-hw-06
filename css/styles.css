@@ -39,7 +39,7 @@ body {
 }
 .navigation .link{
  text-decoration: none;
- color: var(--title-text-color)
+ color: var(--title-text-color);
 }
 .container {
   width: 1200px;
